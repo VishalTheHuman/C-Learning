@@ -1,6 +1,4 @@
-// Basic String Function
 #include<stdio.h>
-#include<string.h>
 void main()
 {
     char First[20];
